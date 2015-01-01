@@ -1,7 +1,7 @@
 Lampetia
 ========
 
-Revising Ruby on Rails
+Revising Ruby on Rails : A minimalistic Twitter-like Website 
 
 From Michael Hartl's tutorial : https://www.railstutorial.org/book/frontmatter
 
